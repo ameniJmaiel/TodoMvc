@@ -1,2 +1,0 @@
-# TodoMvc
-Created with CodeSandbox
